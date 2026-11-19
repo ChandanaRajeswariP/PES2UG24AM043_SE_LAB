@@ -1,31 +1,30 @@
-# Lab 1 - Requirements Engineering and UML Use-Case Modelling
+# Lab 2 Agile Backlog and Sprint Simulation
 
 **Student:** Chandana Rajeswari P  
-**Student ID:** PES2UG24AM043
+**Student ID:** PES2UG24AM043  
+**Problem statement:** Problem #39 — Second-Hand Product Escrow Marketplace
 
-## Scenario
+This package follows the file layout shown in the reference repository and adapts its Lab 2 Agile backlog and sprint simulation to Problem #39. The deliverables include epics, ranked stories, Fibonacci estimates, a simulated 10-day Sprint 1, a board, burndown data, and reflection.
 
-Problem #39: Second-Hand Product Escrow Marketplace.
+## Submission files
 
-**GitHub repository:** [ChandanaRajeswariP/SE_LAB](https://github.com/ChandanaRajeswariP/SE_LAB)
+- screenshots/ — three course visuals plus three clean Jira-style sample images: Jira_Style_Backlog_All_Sprints_SAMPLE.png, Jira_Style_Active_Sprint_1_SAMPLE.png, and Jira_Style_Sprint_Roadmap_SAMPLE.png. The sample images have no top-right badge; Lab2_Submission.docx places a caption immediately below each image clarifying that it is not a live Jira capture.
+- Jira_Backlog_Import.csv — four epics followed by 11 stories; story rows reference their epic using the numeric Issue ID in Parent.
+- Lab2_Submission.docx — editable submission with requirements traceability, full story statements and acceptance criteria, sprint plan and task breakdown, visual evidence, reflection, cross-check, and three Jira-style images with captions underneath.
+- Lab2_Submission.pdf — formatted submission report.
+- README.md — this file.
 
-## Deliverables
+Supporting editable files are also included: Epics.csv, Product_Backlog.csv, Sprint_1_Plan.csv, Sprint_1_Tasks.csv, Sprint_1_Board.csv, Burndown_Data.csv, Sprint_Reflection.md, and the original SVG chart sources.
 
-- `Requirements_Table.docx` - exactly five functional requirements (FR-001 to FR-005) and two nonfunctional requirements (NFR-001 and NFR-002), with IDs, type, description, priority, measurable acceptance criteria, rationale, and comments.
-- `Use_Case_Diagram.pdf` - system boundary, actors, seven labeled use cases, one `<<include>>`, and one conditional `<<extend>>` relationship.
-- `Use_Case_Diagram.svg` - editable vector source for the diagram.
-- `Use_Case_Flow.docx` - editable one-page flow for UC-05, including preconditions, postconditions, main success scenario, and one alternate flow.
-- `Use_Case_Flow.pdf` - one-page PDF version of the flow.
+## Sprint 1 summary
 
-## Modeling assumptions
+Sprint 1 is a 10-working-day simulation with an assumed capacity of 16 points because no prior velocity was supplied. MKT-01, MKT-02, and MKT-03 are marked Done for 11 points; MKT-04 remains In Progress for 5 points. One simulated sprint is not evidence of stable team velocity.
 
-- Buyer and Inspection Agent are the scenario's stated actors. Seller, Payment Service, and Dispute Resolution Agent are added to model listing creation, payment processing, and dispute handling end to end; those roles are not separately specified in the scenario.
-- Inspection outcomes are Pass or Fail. A seller payout requires a passing inspection and buyer sign-off. Failed or disputed cases remain held until an authorized resolution is recorded; the documents do not prescribe a refund policy.
-- The two-second dispute-freeze threshold and 500 concurrent order actions make the supplied NFR-001 sample measurable. Confirm these target values with the instructor or stakeholder if the scenario is extended.
-- Requirements-table comments are self-review clarifications. They do not claim that a peer critique took place; replace or supplement them with actual peer feedback if required in class.
+## Jira CSV import notes
 
-## Cross-check against the lab instructions
+Jira Cloud’s current guidance uses the Parent field for parent-child mapping and numeric Issue IDs; import epics before or above their stories. This CSV lists each epic first and references its numeric Issue ID in each story’s Parent field. Use Jira’s external system CSV import for hierarchy mapping, and map Story Points to the project’s story-point estimate field. The CSV uses temporary MKT-1001–MKT-2011 key placeholders and keeps the package IDs (EP-* and MKT-01–MKT-11) in Local ID. Jira may assign new project keys. Check the field mapping before import. Atlassian documents the Parent mapping and hierarchy order in [its Jira Cloud CSV parent-child guide](https://support.atlassian.com/jira/kb/keep-issue-parent-child-mapping-during-csv-import-to-jira-cloud/).
 
+<<<<<<< Updated upstream
 | Lab requirement | Result |
 | --- | --- |
 | Exactly five FRs, numbered FR-001 to FR-005 | Complete |
@@ -36,18 +35,12 @@ Problem #39: Second-Hand Product Escrow Marketplace.
 | One-page use-case flow with preconditions, postconditions, main success, and alternate flow | Complete |
 | Peer critique with another student | in-class peer exchange; feedback was given and changes were made |
 | Push deliverables to the student's Lab 1 GitHub repository | Folder has been added to repository|
+=======
+## Simulation disclosure
+>>>>>>> Stashed changes
 
-## Push from PowerShell
+The backlog, board, burndown, and Jira-style screen images are generated to show sample assignment artifacts. They are not live Jira screenshots. The planned sprint view covers Sprints 1–5 and all 11 stories; MKT-04 is marked for carryover into Sprint 2 only if it remains open when Sprint 1 is closed. If the instructor requires screenshots from an actual Jira board, import the CSV, create/update the sprint there, and replace the mockups in screenshots with actual captures.
 
-If the repository is not already cloned, run:
+## Reference
 
-```powershell
-git clone https://github.com/ChandanaRajeswariP/SE_LAB.git "C:\Users\rajes\Downloads\SE_LAB"
-Copy-Item -Recurse -LiteralPath "C:\Users\rajes\Downloads\PathSnap_Person2_Handoff\SE Lab 1" -Destination "C:\Users\rajes\Downloads\SE_LAB\SE Lab 1"
-Set-Location "C:\Users\rajes\Downloads\SE_LAB"
-git add -- "SE Lab 1"
-git commit -m "Add Lab 1 requirements engineering submission"
-git push -u origin HEAD
-```
-
-Git Credential Manager may prompt you to authenticate with GitHub during the push.
+The file layout follows the repository link supplied for Lab 2: https://github.com/Dhruvjagadeesh/SOFTWARE-ENGINEERING-LAB-SUBMISSIONS/tree/main/Lab2_Agile-Backlog-and-Sprint-Simulation
