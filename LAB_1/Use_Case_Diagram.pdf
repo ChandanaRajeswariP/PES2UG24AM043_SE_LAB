@@ -1,0 +1,781 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (UML Use\055Case Diagram \055 Second\055Hand Product Escrow Marketplace)
+/Author (Chandana Rajeswari P)
+/Subject (Lab 1\054 Problem \04339\054 PES2UG24AM043)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 1000 700 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 9384
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 0 0 cm
+0 0 0 RG
+1 w
+0 J
+0 j
+[] 0 d
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT /F2 10 Tf 12 TL ET
+q
+1 0 0 1 0 0 cm
+q
+1 1 1 rg
+1 1 1 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 0 0 1000 700 re B*
+Q
+q
+BT /F3 18 Tf 21.6 TL ET
+BT /F3 18 Tf 21.6 TL ET
+.090196 .196078 .301961 rg
+BT 1 0 0 1 316.454 674 Tm (Second-Hand Product Escrow Marketplace) Tj T* ET
+Q
+q
+BT /F1 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
+.32549 .392157 .454902 rg
+BT 1 0 0 1 390.975 654 Tm (UML Use-Case Diagram  |  Lab 1  |  Problem #39) Tj T* ET
+Q
+q
+.984314 .988235 .992157 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 220 72 580 552 re B*
+Q
+q
+BT /F3 11 Tf 13.2 TL ET
+BT /F3 11 Tf 13.2 TL ET
+.090196 .196078 .301961 rg
+BT 1 0 0 1 399.0485 604 Tm (Second-Hand Escrow Marketplace System) Tj T* ET
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 119 454 m 295 440 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 119 454 m 555 315 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 119 454 m 295 185 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 881 566 m 485 565 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 881 566 m 745 315 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 119 315 m 295 315 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 881 430 m 745 440 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 881 430 m 745 315 l S
+Q
+q
+.32549 .392157 .454902 RG
+1.15 w
+0 J
+0 j
+[] 0 d
+n 881 185 m 745 185 l S
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+485 565 m
+485 582.6731 442.4671 597 390 597 c
+337.5329 597 295 582.6731 295 565 c
+295 547.3269 337.5329 533 390 533 c
+442.4671 533 485 547.3269 485 565 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 377.7217 570 Tm (UC-01) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 339.492 554 Tm (Publish Product Listing) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+485 440 m
+485 457.6731 442.4671 472 390 472 c
+337.5329 472 295 457.6731 295 440 c
+295 422.3269 337.5329 408 390 408 c
+442.4671 408 485 422.3269 485 440 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 377.7217 445 Tm (UC-02) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 343.227 429 Tm (Place Purchase Order) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+745 440 m
+745 457.6731 702.4671 472 650 472 c
+597.5329 472 555 457.6731 555 440 c
+555 422.3269 597.5329 408 650 408 c
+702.4671 408 745 422.3269 745 440 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 637.7218 445 Tm (UC-03) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 596.981 429 Tm (Lock Payment in Escrow) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+485 315 m
+485 332.6731 442.4671 347 390 347 c
+337.5329 347 295 332.6731 295 315 c
+295 297.3269 337.5329 283 390 283 c
+442.4671 283 485 297.3269 485 315 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 377.7217 320 Tm (UC-04) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 335.244 304 Tm (Submit Inspection Report) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+745 315 m
+745 332.6731 702.4671 347 650 347 c
+597.5329 347 555 332.6731 555 315 c
+555 297.3269 597.5329 283 650 283 c
+702.4671 283 745 297.3269 745 315 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 637.7218 320 Tm (UC-05) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 590.7395 304 Tm (Review Report and Sign Off) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+485 185 m
+485 202.6731 442.4671 217 390 217 c
+337.5329 217 295 202.6731 295 185 c
+295 167.3269 337.5329 153 390 153 c
+442.4671 153 485 167.3269 485 185 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 377.7217 190 Tm (UC-06) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 360.7455 174 Tm (Open Dispute) Tj T* ET
+Q
+q
+1 1 1 rg
+.031373 .494118 .545098 RG
+1.7 w
+0 J
+0 j
+[] 0 d
+n
+745 185 m
+745 202.6731 702.4671 217 650 217 c
+597.5329 217 555 202.6731 555 185 c
+555 167.3269 597.5329 153 650 153 c
+702.4671 153 745 167.3269 745 185 c
+B*
+Q
+q
+BT /F3 8.5 Tf 10.2 TL ET
+BT /F3 8.5 Tf 10.2 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 637.7218 190 Tm (UC-07) Tj T* ET
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 614.99 174 Tm (Resolve Dispute) Tj T* ET
+Q
+q
+.031373 .494118 .545098 RG
+1.45 w
+0 J
+0 j
+[5 3] 0 d
+n 485 440 m 555 440 l S
+Q
+q
+.031373 .494118 .545098 rg
+.031373 .494118 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 555 440 m 549 443 l 549 437 l h
+B*
+Q
+q
+BT /F3 8.2 Tf 9.84 TL ET
+BT /F3 8.2 Tf 9.84 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 496.0683 457 Tm (<<include>>) Tj T* ET
+Q
+q
+.031373 .494118 .545098 RG
+1.45 w
+0 J
+0 j
+[5 3] 0 d
+n 465 205 m 610 286 l S
+Q
+q
+.031373 .494118 .545098 rg
+.031373 .494118 .545098 RG
+1 w
+0 J
+0 j
+[] 0 d
+n 610 286 m 602.8 284.8 l 608.8 278.8 l h
+B*
+Q
+q
+BT /F3 8.2 Tf 9.84 TL ET
+BT /F3 8.2 Tf 9.84 TL ET
+.031373 .494118 .545098 rg
+BT 1 0 0 1 482.2081 272 Tm (<<extend>>) Tj T* ET
+Q
+q
+BT /F4 7.2 Tf 8.64 TL ET
+BT /F4 7.2 Tf 8.64 TL ET
+.32549 .392157 .454902 rg
+BT 1 0 0 1 457.5808 259 Tm ([report fails or buyer disputes]) Tj T* ET
+Q
+q
+1 1 1 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n
+109 487 m
+109 491.9706 104.9706 496 100 496 c
+95.02944 496 91 491.9706 91 487 c
+91 482.0294 95.02944 478 100 478 c
+104.9706 478 109 482.0294 109 487 c
+B*
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 478 m 100 446 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 82 464 m 118 464 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 446 m 85 425 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 446 m 115 425 l S
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 87.247 408 Tm (Buyer) Tj T* ET
+Q
+q
+1 1 1 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n
+109 348 m
+109 352.9706 104.9706 357 100 357 c
+95.02944 357 91 352.9706 91 348 c
+91 343.0294 95.02944 339 100 339 c
+104.9706 339 109 343.0294 109 348 c
+B*
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 339 m 100 307 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 82 325 m 118 325 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 307 m 85 286 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 100 307 m 115 286 l S
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 63.496 269 Tm (Inspection Agent) Tj T* ET
+Q
+q
+1 1 1 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n
+909 599 m
+909 603.9706 904.9706 608 900 608 c
+895.0294 608 891 603.9706 891 599 c
+891 594.0294 895.0294 590 900 590 c
+904.9706 590 909 594.0294 909 599 c
+B*
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 590 m 900 558 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 882 576 m 918 576 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 558 m 885 537 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 558 m 915 537 l S
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 887.742 520 Tm (Seller) Tj T* ET
+Q
+q
+1 1 1 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n
+909 463 m
+909 467.9706 904.9706 472 900 472 c
+895.0294 472 891 467.9706 891 463 c
+891 458.0294 895.0294 454 900 454 c
+904.9706 454 909 458.0294 909 463 c
+B*
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 454 m 900 422 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 882 440 m 918 440 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 422 m 885 401 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 422 m 915 401 l S
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 863.982 384 Tm (Payment Service) Tj T* ET
+Q
+q
+1 1 1 rg
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n
+909 218 m
+909 222.9706 904.9706 227 900 227 c
+895.0294 227 891 222.9706 891 218 c
+891 213.0294 895.0294 209 900 209 c
+904.9706 209 909 213.0294 909 218 c
+B*
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 209 m 900 177 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 882 195 m 918 195 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 177 m 885 156 l S
+Q
+q
+.090196 .196078 .301961 RG
+1.6 w
+0 J
+0 j
+[] 0 d
+n 900 177 m 915 156 l S
+Q
+q
+BT /F3 9 Tf 10.8 TL ET
+BT /F3 9 Tf 10.8 TL ET
+.12549 .168627 .215686 rg
+BT 1 0 0 1 844.9965 139 Tm (Dispute Resolution Agent) Tj T* ET
+Q
+q
+BT /F1 7.8 Tf 9.36 TL ET
+BT /F1 7.8 Tf 9.36 TL ET
+.32549 .392157 .454902 rg
+BT 1 0 0 1 256.1603 42 Tm (Solid lines: actor associations    Dashed arrows: use-case relationships    Actors include scenario roles and explicit marketplace assumptions.) Tj T* ET
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 1000 700 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.392157 0.454902 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 375.8193 636 Tm
+(Student\072 Chandana Rajeswari P  \174  Student ID\072 PES2UG24AM043) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Times-Roman
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000219 00000 n 
+0000000278 00000 n 
+0000000327 00000 n 
+0000000582 00000 n 
+0000010018 00000 n 
+0000010125 00000 n 
+0000010232 00000 n 
+0000010341 00000 n 
+0000010453 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+10569
+%%EOF

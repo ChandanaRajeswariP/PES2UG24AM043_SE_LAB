@@ -1,0 +1,495 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Use Case Flow \055 Review Inspection Report and Confirm Purchase)
+/Author (Chandana Rajeswari P)
+/Subject (Lab 1\054 Problem \04339\054 PES2UG24AM043)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 8205
+>>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.32549 .392157 .454902 rg
+BT 1 0 0 1 244.071 17.28 Tm (Lab 1  |  Problem #39  |  Use Case Flow) Tj T* ET
+Q
+q
+1 0 0 1 45.6 737.64 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 3 Tm /F2 18 Tf 21 TL 138.36 0 Td (Use Case Flow Specification) Tj T* -138.36 0 Td ET
+Q
+Q
+q
+1 0 0 1 45.6 719.64 cm
+q
+.031373 .494118 .545098 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 128.705 0 Td (UC-05 Review Inspection Report and Confirm Purchase) Tj T* -128.705 0 Td ET
+Q
+Q
+q
+1 0 0 1 37.8 683.64 cm
+q
+.917647 .94902 .964706 rg
+n 0 30 90 -30 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 5 18 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.7 Tf 9 TL (Primary actor) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95 18 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.7 Tf 9 TL (Buyer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 5 3 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.7 Tf 9 TL (Supporting actors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 95 3 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.7 Tf 9 TL (Independent Inspection Agent, Payment Service, Seller) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .831373 .862745 RG
+.35 w
+n 0 30 m 536.4 30 l S
+n 0 0 m 536.4 0 l S
+n 0 0 m 0 30 l S
+n 536.4 0 m 536.4 30 l S
+n 0 15 m 536.4 15 l S
+n 90 0 m 90 30 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 680.64 cm
+Q
+q
+1 0 0 1 45.6 665.64 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL (Preconditions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 650.64 cm
+q
+BT 1 0 0 1 0 1.3 Tm 9 TL /F1 7.7 Tf .12549 .168627 .215686 rg (\177 The buyer is authenticated and is the buyer on the order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 635.64 cm
+q
+BT 1 0 0 1 0 1.3 Tm 9 TL /F1 7.7 Tf .12549 .168627 .215686 rg (\177 Payment is held in escrow; the order is Awaiting Buyer Sign-Off.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 620.64 cm
+q
+BT 1 0 0 1 0 1.3 Tm 9 TL /F1 7.7 Tf .12549 .168627 .215686 rg (\177 The assigned independent inspector has submitted a physical inspection report.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 605.64 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL (Postconditions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 581.64 cm
+q
+BT 1 0 0 1 0 10.3 Tm 9 TL /F2 7.7 Tf .12549 .168627 .215686 rg (Success:) Tj /F1 7.7 Tf ( buyer sign-off and payout are recorded, escrow is paid to the seller, and the order is Completed. ) Tj /F2 7.7 Tf (Alternate:) Tj /F1 7.7 Tf ( a dispute is open, escrow remains) Tj T* (frozen, and no seller payout is made while investigation is active.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 578.14 cm
+Q
+q
+1 0 0 1 45.6 563.14 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL (Main Success Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 433.34 cm
+q
+.090196 .196078 .301961 rg
+n 0 127.8 536.4 -14.2 re f*
+.960784 .972549 .980392 rg
+n 0 99.4 536.4 -14.2 re f*
+.960784 .972549 .980392 rg
+n 0 71 536.4 -14.2 re f*
+.960784 .972549 .980392 rg
+n 0 42.6 536.4 -14.2 re f*
+.960784 .972549 .980392 rg
+n 0 14.2 536.4 -14.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 116.1 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.9 Tf 9.2 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.24 116.1 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.9 Tf 9.2 TL (Actor and system interaction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 101.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (1) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 101.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (Buyer opens the order from the sign-off notification.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 87.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (2) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 87.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System verifies the buyer's access and confirms that the inspector's report is attached to this order.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 73.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (3) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 73.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System displays the inspection outcome, findings, evidence, and the held escrow status.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 59.3 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (4) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 59.3 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (Buyer reviews the report and confirms acceptance of the inspected item.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 45.1 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (5) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 45.1 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System verifies a Pass outcome, the buyer's sign-off, no open dispute, and no prior settlement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (6) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 30.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System records the sign-off and sends one payout instruction to the payment service.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 16.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (7) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 16.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (Payment service confirms payout; system records the settlement, marks the order Completed, and adds an audit event.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 2.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 8.9238 0 Td (8) Tj T* -8.9238 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 2.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System sends the completed-order receipt to the buyer and seller.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .831373 .862745 RG
+.35 w
+n 0 127.8 m 536.4 127.8 l S
+n 0 0 m 536.4 0 l S
+n 0 0 m 0 127.8 l S
+n 536.4 0 m 536.4 127.8 l S
+n 0 113.6 m 536.4 113.6 l S
+n 0 99.4 m 536.4 99.4 l S
+n 0 85.2 m 536.4 85.2 l S
+n 0 71 m 536.4 71 l S
+n 0 56.8 m 536.4 56.8 l S
+n 0 42.6 m 536.4 42.6 l S
+n 0 28.4 m 536.4 28.4 l S
+n 0 14.2 m 536.4 14.2 l S
+n 30.24 0 m 30.24 127.8 l S
+Q
+Q
+Q
+q
+1 0 0 1 45.6 430.34 cm
+Q
+q
+1 0 0 1 45.6 415.34 cm
+q
+.090196 .196078 .301961 rg
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL (Alternate Flow A1 - Buyer Disputes the Report) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.6 356.54 cm
+q
+.090196 .196078 .301961 rg
+n 0 56.8 536.4 -14.2 re f*
+.960784 .972549 .980392 rg
+n 0 28.4 536.4 -14.2 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 4 45.1 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.9 Tf 9.2 TL (Step) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.24 45.1 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 1.3 Tm /F2 7.9 Tf 9.2 TL (Actor and system interaction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 30.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 6.28915 0 Td (A1) Tj T* -6.28915 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 30.9 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (At step 4, the buyer disputes the findings or the report records a Fail outcome; the buyer submits a reason and any supporting evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 16.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 6.28915 0 Td (A2) Tj T* -6.28915 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 16.7 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System creates the dispute ticket, freezes escrow within 2 seconds, rejects seller withdrawal attempts, and marks the order Disputed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 4 2.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL 6.28915 0 Td (A3) Tj T* -6.28915 0 Td ET
+Q
+Q
+q
+1 0 0 1 34.24 2.5 cm
+q
+.12549 .168627 .215686 rg
+BT 1 0 0 1 0 1.3 Tm /F1 7.9 Tf 9.2 TL (System notifies the authorized dispute agent and both parties; the flow ends with funds held until an authorized resolution is recorded.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .831373 .862745 RG
+.35 w
+n 0 56.8 m 536.4 56.8 l S
+n 0 0 m 536.4 0 l S
+n 0 0 m 0 56.8 l S
+n 536.4 0 m 536.4 56.8 l S
+n 0 42.6 m 536.4 42.6 l S
+n 0 28.4 m 536.4 28.4 l S
+n 0 14.2 m 536.4 14.2 l S
+n 30.24 0 m 30.24 56.8 l S
+Q
+Q
+Q
+ 
+
+Q
+q
+0.0 0.0 612 792 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.32549 0.392157 0.454902 rg
+BT
+/F1-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 189.124 772 Tm
+(Student\072 Chandana Rajeswari P  \174  Student ID\072 PES2UG24AM043) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000213 00000 n 
+0000000272 00000 n 
+0000000321 00000 n 
+0000000554 00000 n 
+0000008811 00000 n 
+0000008918 00000 n 
+0000009025 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+9137
+%%EOF
