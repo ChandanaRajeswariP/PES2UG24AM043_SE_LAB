@@ -34,8 +34,8 @@ Problem #39: Second-Hand Product Escrow Marketplace.
 | At least three actors and at least five use cases | Complete: five actors and seven use cases |
 | One `<<include>>` and one `<<extend>>` relation | Complete |
 | One-page use-case flow with preconditions, postconditions, main success, and alternate flow | Complete |
-| Peer critique with another student | Requires the in-class peer exchange; no peer feedback was supplied |
-| Push deliverables to the student's Lab 1 GitHub repository | Folder is prepared for repository submission; add it to the assigned repository |
+| Peer critique with another student | in-class peer exchange; feedback was given and changes were made |
+| Push deliverables to the student's Lab 1 GitHub repository | Folder has been added to repository|
 
 ## Push from PowerShell
 
