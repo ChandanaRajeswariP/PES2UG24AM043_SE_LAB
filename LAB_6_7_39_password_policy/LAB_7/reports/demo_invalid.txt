@@ -1,0 +1,8 @@
+==== Running first_character_type ====
+Enter a password: First Character Type: Invalid input
+
+==== Running split_credentials ====
+Enter user:password (e.g. alice:Secret1): User and Password: Invalid input
+
+==== Running digit_ratio ====
+Enter a password to measure: Digit Ratio: Invalid input

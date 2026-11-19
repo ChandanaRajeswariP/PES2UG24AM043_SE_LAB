@@ -1,0 +1,18 @@
+==== Running first_character_type ====
+Traceback (most recent call last):
+Enter a password: First Character Type: letter
+
+==== Running split_credentials ====
+Enter user:password (e.g. alice:Secret1): User and Password: ('alice', 'Abc123!')
+
+==== Running digit_ratio ====
+  File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 33, in <module>
+    main()
+  File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 29, in main
+    result = digit_ratio(user_input)
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 14, in digit_ratio
+    return sum(c.isdigit() for c in pw) / len(pw)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~
+ZeroDivisionError: division by zero
+Enter a password to measure: 

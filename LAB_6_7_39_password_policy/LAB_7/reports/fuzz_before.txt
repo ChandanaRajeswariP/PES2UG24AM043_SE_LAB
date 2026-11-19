@@ -1,0 +1,95 @@
+COMMAND: python -m pytest -q --tb=short test_password_policy.py
+FFF                                                                      [100%]
+================================== FAILURES ===================================
+__________________ test_first_character_type_does_not_crash ___________________
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 7, in test_first_character_type_does_not_crash
+  |     def test_first_character_type_does_not_crash(value):
+  |                    ^^^
+  | ExceptionGroup: Hypothesis found 2 distinct failures. (2 sub-exceptions)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 8, in test_first_character_type_does_not_crash
+    |     first_character_type(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 2, in first_character_type
+    |     ch = pw[0]
+    |          ~~^^^
+    | IndexError: string index out of range
+    | Failing test case: test_first_character_type_does_not_crash(
+    |     value='',
+    | )
+    +---------------- 2 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 8, in test_first_character_type_does_not_crash
+    |     first_character_type(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 2, in first_character_type
+    |     ch = pw[0]
+    |          ~~^^^
+    | TypeError: 'NoneType' object is not subscriptable
+    | Failing test case: test_first_character_type_does_not_crash(
+    |     value=None,
+    | )
+    +------------------------------------
+____________________ test_split_credentials_does_not_crash ____________________
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 12, in test_split_credentials_does_not_crash
+  |     def test_split_credentials_does_not_crash(value):
+  |                    ^^^
+  | ExceptionGroup: Hypothesis found 2 distinct failures. (2 sub-exceptions)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 13, in test_split_credentials_does_not_crash
+    |     split_credentials(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 10, in split_credentials
+    |     user, password = text.split(':')
+    |     ^^^^^^^^^^^^^^
+    | ValueError: not enough values to unpack (expected 2, got 1)
+    | Failing test case: test_split_credentials_does_not_crash(
+    |     value='',
+    | )
+    +---------------- 2 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 13, in test_split_credentials_does_not_crash
+    |     split_credentials(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 10, in split_credentials
+    |     user, password = text.split(':')
+    |                      ^^^^^^^^^^
+    | AttributeError: 'NoneType' object has no attribute 'split'
+    | Failing test case: test_split_credentials_does_not_crash(
+    |     value=None,
+    | )
+    +------------------------------------
+_______________________ test_digit_ratio_does_not_crash _______________________
+  + Exception Group Traceback (most recent call last):
+  |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 17, in test_digit_ratio_does_not_crash
+  |     def test_digit_ratio_does_not_crash(value):
+  |                    ^^^
+  | ExceptionGroup: Hypothesis found 2 distinct failures. (2 sub-exceptions)
+  +-+---------------- 1 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 18, in test_digit_ratio_does_not_crash
+    |     digit_ratio(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 14, in digit_ratio
+    |     return sum(c.isdigit() for c in pw) / len(pw)
+    |            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~
+    | ZeroDivisionError: division by zero
+    | Failing test case: test_digit_ratio_does_not_crash(
+    |     value='',
+    | )
+    +---------------- 2 ----------------
+    | Traceback (most recent call last):
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\test_password_policy.py", line 18, in test_digit_ratio_does_not_crash
+    |     digit_ratio(value)
+    |   File "C:\Users\rajes\Documents\Codex\2026-11-19\https-github-com-dhruvjagadeesh-software-engineering\work\lab7_baseline\password_policy.py", line 14, in digit_ratio
+    |     return sum(c.isdigit() for c in pw) / len(pw)
+    |                                     ^^
+    | TypeError: 'NoneType' object is not iterable
+    | Failing test case: test_digit_ratio_does_not_crash(
+    |     value=None,
+    | )
+    +------------------------------------
+=========================== short test summary info ===========================
+FAILED test_password_policy.py::test_first_character_type_does_not_crash - Ex...
+FAILED test_password_policy.py::test_split_credentials_does_not_crash - Excep...
+FAILED test_password_policy.py::test_digit_ratio_does_not_crash - ExceptionGr...
+3 failed in 1.93s

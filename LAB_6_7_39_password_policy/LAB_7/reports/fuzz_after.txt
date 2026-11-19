@@ -1,0 +1,57 @@
+.....................                                                    [100%]
+============================ Hypothesis Statistics ============================
+test_password_policy.py::test_first_character_type_handles_arbitrary_inputs:
+
+  - during generate phase (0.08 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 8 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+test_password_policy.py::test_first_character_type_text_property:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+test_password_policy.py::test_split_credentials_handles_arbitrary_inputs:
+
+  - during generate phase (0.07 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 6 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+test_password_policy.py::test_split_credentials_text_property:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+test_password_policy.py::test_digit_ratio_handles_arbitrary_inputs:
+
+  - during generate phase (0.06 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 15 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+test_password_policy.py::test_digit_ratio_text_property:
+
+  - during generate phase (0.04 seconds):
+    - Typical runtimes: < 1ms, of which < 1ms in data generation
+    - 200 passing, 0 failing, and 0 invalid test cases
+
+  - Stopped because settings.max_examples=200
+
+
+21 passed in 1.53s

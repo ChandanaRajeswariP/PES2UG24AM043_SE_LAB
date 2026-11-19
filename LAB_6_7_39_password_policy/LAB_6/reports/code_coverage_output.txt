@@ -1,0 +1,10 @@
+COMMAND: python -m coverage run --source=password_policy -m pytest -q CodeCoverageTest_password_policy.py
+......                                                                   [100%]
+6 passed in 1.88s
+
+COMMAND: python -m coverage report -m
+Name                 Stmts   Miss  Cover   Missing
+--------------------------------------------------
+password_policy.py      47      0   100%
+--------------------------------------------------
+TOTAL                   47      0   100%
